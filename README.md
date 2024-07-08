@@ -8,7 +8,7 @@ An accomplished Machine Learning Expert, with wide exposure to both research and
 
 * 🌍  I'm based in Eygpt
 * ✉️  You can contact me at [menanashat4321@gmail.ocm](mailto:menanashat4321@gmail.ocm)
-* 🚀  I'm currently working on [Hayvn](http://myownpackageofml-cqvzuptknm6bxxgrwdaqhe.streamlit.app/)
+* 🚀  I'm currently working on Ejada
 * 🧠  I'm learning Backend -Django
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm not stoppable
